@@ -1,0 +1,30 @@
+Thank you for downloading BattleZone NWAF for Xbox One/SeriesX/S Created by TL Actual Gaming.
+A few things to note before doing anything, make sure to create a backup of all of your
+files before uploading anything.
+
+Make sure with the Globals file, you upload it to the "db" folder AND your "dayz.offlinechernarusplus" folder.
+
+
+The cfggameplay and CHERNARUScfggameplay files have to be the same (all text should be the same)
+They get uploaded into the "dayz.offlinechernarusplus" folder.
+
+Cfgplayerspawnpoints should go into the "dayz.offlinechernarusplus" folder.
+
+Battlezone.json and Weaponshack.json need to be uploaded to the "custom" folder.
+
+After uploading everything where it needs to go, restart your server or if you stopped your server
+prior to uploading these files, simply start it back up. 
+
+Everything should work properly after uploading. If something doesnt work, reinstall your server on 
+Nitrado, then reupload everything, then restart the server.
+
+If you have any issues feel free to DM me on IG @TL_Actual_Gaming and I will get to you as soon
+as I can.
+
+If you would like to donate to show your support, I take donations via cashapp at $TRAonline.
+If you would like to join my PVP server for Xbox, search for TL Actual in the community page
+and you'll find it.
+
+Make sure to find me on YouTube and subscribe to my channel to show support as well.
+
+Thank you all and I hope you have an amazing day.
